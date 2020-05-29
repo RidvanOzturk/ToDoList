@@ -1,0 +1,14 @@
+C:\Users\fbatu\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.exe.config
+C:\Users\fbatu\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.exe
+C:\Users\fbatu\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.pdb
+C:\Users\fbatu\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\EntityFramework.dll
+C:\Users\fbatu\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fbatu\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\EntityFramework.xml
+C:\Users\fbatu\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fbatu\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.csproj.CoreCompileInputs.cache
+C:\Users\fbatu\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.csproj.CopyComplete
+C:\Users\fbatu\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.exe
+C:\Users\fbatu\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.pdb
+C:\Users\fbatu\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.csprojAssemblyReference.cache
+C:\Users\fbatu\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.Migrations.createTable.resources
+C:\Users\fbatu\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.csproj.GenerateResource.cache
