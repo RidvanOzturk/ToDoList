@@ -116,7 +116,7 @@ namespace ConsoleApp27
                         }
                         if (notGiris == 2)
                         {
-                            Console.WriteLine("Eklemek istediğiniz başlığı ekleyiniz:");
+                            Console.WriteLine("\nEklemek istediğiniz başlığı ekleyiniz:");
                             girilecekBaslik = Console.ReadLine();
                             Console.WriteLine("Eklemek istediğiniz notu ekleyiniz:");
                             girilecekKonu = Console.ReadLine();
@@ -156,7 +156,7 @@ namespace ConsoleApp27
                 }
                 else if (girisDeger == 2)
                 {
-                    Console.WriteLine("Sisteme kayıt olacak kullanıcı adı giriniz: ");
+                    Console.WriteLine("\nSisteme kayıt olacak kullanıcı adı giriniz: ");
                     girilecekId = Console.ReadLine();
                     Console.WriteLine("Sisteme kayıt olacak şifre giriniz: ");
                     girilecekSifre = Convert.ToInt32(Console.ReadLine());
@@ -186,7 +186,7 @@ namespace ConsoleApp27
                 else if (girisDeger == 3)
                 {
                     Thread.Sleep(200);
-                    Console.Write("İşleminiz yapılıyor. Lütfen bekleyiniz");
+                    Console.Write("\nİşleminiz yapılıyor. Lütfen bekleyiniz");
                     for (int i = 0; i < 3; i++)
                     {
                         Thread.Sleep(200);
